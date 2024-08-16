@@ -16,7 +16,7 @@ conda create -n mchatbot python=3.8 -y
 ```
 
 ```bash
-conda activate mchatbot
+conda activate mbot
 ```
 
 ### STEP 02- install the requirements
