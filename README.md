@@ -1,6 +1,6 @@
 # End-to-end-Medical-Chatbot-using-Llama2
 
-# How to run?
+# Steps to RUN this bot
 ### STEPS:
 
 Clone the repository
